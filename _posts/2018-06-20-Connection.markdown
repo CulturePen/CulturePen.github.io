@@ -4,7 +4,8 @@ title:  "Connection"
 date:   2018-06-20 23:59:00 
 categories: blog post
 ---
-There have only been two periods in my life where I’ve felt truly inspired.  
+There have only been two periods in my life where I’ve felt truly inspired. 
+
 The first was almost exactly a year ago when I landed a job at a great company that I thought I didn’t deserve.  It was my first real, corporate career. 
 
 The second period of inspiration began yesterday, when I quit that same job.  
@@ -28,7 +29,9 @@ I boarded the bus late one evening, exhausted from a long day’s work at my new
 
 “Me?” He looked up at me. “Yeah. I suppose I am. I’ve had a long day, but it was very exciting.” 
 
-A smile formed on his face, and that’s how I met Justin. We spoke of our days, and then our lives and then the world as a whole, (he’s an avid traveler) all the way to his stop, which turned out to be mine too. By the time we got off and started walking together, we were practically finishing each other’s sentences and I found myself nodding enthusiastically at his words. We ended up walking past my home, all the way to his door. We hugged each other and exchanged phone numbers with a promise to connect again in the future. 
+A smile formed on his face, and that’s how I met Justin. 
+
+We spoke of our days, then our lives, and then the world as a whole, (he’s an avid traveler) all the way to his stop, which turned out to be mine too. By the time we got off and started walking together, we were practically finishing each other’s sentences and I found myself nodding enthusiastically at his ideas. We ended up walking past my home, all the way to his door. We hugged each other and exchanged phone numbers with a promise to connect again in the future. 
 
 We never did connect again, but the memory of that single connection brings the silliest grin to my face, and I can’t wait to give him a call tomorrow and exchange updates from our lives this past year. 
 
