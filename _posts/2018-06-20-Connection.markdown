@@ -45,7 +45,7 @@ The post you just read represents a piece of myself, and there’s nothing more 
 
 I realize now the importance of having meaning in the way I do that with my life. This blog is how I choose to create meaning in what I do, and so the promise I make to myself and to you is to share a genuine piece of myself this way every day, for the rest of my days. 
 
-Thank you for accompanying me on this journey.
+Thank you for joining me on this journey.
 
 Vamsi
  
