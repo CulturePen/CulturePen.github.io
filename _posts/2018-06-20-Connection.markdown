@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Connection"
-date:   2018-06-20 23:59:15 -0700
+date:   2018-06-20 23:59:00 
 categories: blog post
 ---
 There have only been two periods in my life where I’ve felt truly inspired.  
