@@ -39,7 +39,7 @@ We never did connect again, but the memory of that single connection brings the 
 
 --
 
-When I woke up this morning, I was going to write a potentially very dry post about core values and why they’re important. I thought that’s the kind of content people would want to read. But after the day I’ve had, I know that kind of writing isn’t me.
+When I woke up this morning, I was going to write a potentially very dry post about core values and why they’re important. I thought that was the kind of content people would want to read. But after what I've learnt today, I know that kind of writing isn’t me.
 
 The post you just read represents a piece of myself, and there’s nothing more satisfying to me than sharing that with the world. We all sell or give away pieces of ourselves to the world in different ways, for reasons unique to each of us. 
 
