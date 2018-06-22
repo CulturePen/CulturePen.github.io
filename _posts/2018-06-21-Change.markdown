@@ -5,6 +5,7 @@ date:   2018-06-21 13:54:15 -0700
 categories: blog post
 ---
 "Everyone you interact with is changed forever.
+
     The only questions are:
     *How will they be different?* and
     *How different will they be?*"
