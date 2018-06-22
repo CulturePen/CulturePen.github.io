@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Connection"
-date:   2018-06-17 18:54:15 -0700
+date:   2018-06-20 23:59:00 
 categories: blog post
 ---
-There have only been two periods in my life where I’ve felt truly inspired.  
+There have only been two periods in my life where I’ve felt truly inspired. 
+
 The first was almost exactly a year ago when I landed a job at a great company that I thought I didn’t deserve.  It was my first real, corporate career. 
 
 The second period of inspiration began yesterday, when I quit that same job.  
@@ -28,7 +29,9 @@ I boarded the bus late one evening, exhausted from a long day’s work at my new
 
 “Me?” He looked up at me. “Yeah. I suppose I am. I’ve had a long day, but it was very exciting.” 
 
-A smile formed on his face, and that’s how I met Justin. We spoke of our days, and then our lives and then the world as a whole, (he’s an avid traveler) all the way to his stop, which turned out to be mine too. By the time we got off and started walking together, we were practically finishing each other’s sentences and I found myself nodding enthusiastically at his words. We ended up walking past my home, all the way to his door. We hugged each other and exchanged phone numbers with a promise to connect again in the future. 
+A smile formed on his face, and that’s how I met Justin. 
+
+We spoke of our days, then our lives, and then the world as a whole, (he’s an avid traveler) all the way to his stop, which turned out to be mine too. By the time we got off and started walking together, we were practically finishing each other’s sentences and I found myself nodding enthusiastically at his ideas. We ended up walking past my home, all the way to his door. We hugged each other and exchanged phone numbers with a promise to connect again in the future. 
 
 We never did connect again, but the memory of that single connection brings the silliest grin to my face, and I can’t wait to give him a call tomorrow and exchange updates from our lives this past year. 
 
@@ -36,13 +39,13 @@ We never did connect again, but the memory of that single connection brings the 
 
 --
 
-When I woke up this morning, I was going to write a potentially very dry post about core values and why they’re important. I thought that’s the kind of content people would want to read. But after the day I’ve had, I know that kind of writing isn’t me.
+When I woke up this morning, I was going to write a potentially very dry post about core values and why they’re important. I thought that was the kind of content people would want to read. But after what I've learnt today, I know that kind of writing isn’t me.
 
 The post you just read represents a piece of myself, and there’s nothing more satisfying to me than sharing that with the world. We all sell or give away pieces of ourselves to the world in different ways, for reasons unique to each of us. 
 
 I realize now the importance of having meaning in the way I do that with my life. This blog is how I choose to create meaning in what I do, and so the promise I make to myself and to you is to share a genuine piece of myself this way every day, for the rest of my days. 
 
-Thank you for accompanying me on this journey.
+Thank you for joining me on this journey.
 
 Vamsi
  
