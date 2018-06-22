@@ -5,12 +5,12 @@ date:   2018-06-21 13:54:15 -0700
 categories: blog post
 ---
 
-> *Everyone you interact with is changed forever <br>
-> The only questions are: <br>
-> How will they be different? and <br>
-> How different will they be?* <br>
+> <em>Everyone you interact with is changed forever</em><br>
+> <em>The only questions are:</em><br>
+> <em>How will they be different? and</em><br>
+> <em>How different will they be?</em><br>
 > <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-> **— Seth Godin**, *The Icarus Deception*
+> <b>— Seth Godin<b>, <em>The Icarus Deception</em>
 
 We often overlook our impact on the lives of others. Every word, nod, glance and shrug affects the people we surround ourselves with, the people who choose to include us in their surroundings. 
 
