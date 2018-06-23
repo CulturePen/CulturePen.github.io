@@ -1,0 +1,43 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 7 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: rouge
+markdown: kramdown
+disqus: 
+google_analytics: 
+title: Culture Pen
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: Culture Pen
+
+description: >- 
+  I'm Vamsi and I explore different company cultures in beautiful Vancouver, 
+  British Columbia. Feel free to connect with me on social media or send me 
+  an email at Vamsi@culturepen.com
+author:
+  name: Vamsi
+  email: vamsi@culturepen.com
+  github: culture-pen
+  twitter: CulturePen
+  pinterest: asd123
+  linkedin: asd123
+  bio: 
+  email_md5: 
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+# set it as url of an image
+# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+
+BASE_PATH:
+
+plugins:
+  - jekyll-paginate
