@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Err"
+date:   2018-06-24 13:54:15 -0700
+categories: blog post
+---
+
+>**What if I screw up?**
+>
+>Nobody has ever been fired at Valve for making a mistake. It wouldn’t make sense for us to operate that way. Providing the freedom to fail is an important trait of the company—we couldn’t expect so much of individuals if we also penalized people for errors. Even expensive mistakes, or ones which result in a very public failure, are genuinely looked at as opportunities to learn. We can always repair the mistake or make up for it.*       
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__&mdash; Valve Corporation__, *Handbook for New Employees*
+
+The old Latin word errō (to wander or stray) was one of the origin words for the more modern err (to make a mistake, to sin). 
+
+Somehow over time we’ve gone from thinking of erring as wandering or experimenting to erring as sinning or making a mistake. 
+
+Even common sayings such as, *“To err is to be human”* or *“Err on the side of caution”* make it seem like we would be infallible if we were not plagued with our propensity for error. 
+
+I’d like to present a different perspective. The perspective that embraces our mistakes and our uniquely human ways of error and self-reflection. We are able to go beyond the simple stimuli based learning of other species, such as learning to avoid fire after being burned, into the realm of understanding the very way we function and grow.
+
+We are capable of identifying not just our mistakes of commission, but also our mistakes of omission, our missed opportunities and unexplored risks.  This ability is so unique to us, and yet we neglect it in favour of fear, shame and doubt when it comes to the possibility of failure. 
+
+We should be proud of the mistakes we make, the failures we experience, because we are uniquely equipped to learn from them and use them to be the best versions of ourselves moving forward. 
+
+Often times, the most damaging mistake of all is waiting. Waiting to be noticed, to be chosen, to be acted upon rather than to notice, to choose, to act. It’s scary to take the risk, to be vulnerable and say, *There’s a chance this won’t work, and that’s okay, because I know that there’s no chance waiting will ever work.*
+
+P.S. If you'd like to check out Valve's Employee Handbook where they've turned a bunch of traditional corporate principles upside-down, you can find it [here.](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf)
+
+
+
+
+
