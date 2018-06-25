@@ -10,7 +10,7 @@ categories: blog post
 >*Nobody has ever been fired at Valve for making a mistake. It wouldn’t make sense for us to operate that way. Providing the freedom to fail is an important trait of the company—we couldn’t expect so much of individuals if we also penalized people for errors. Even expensive mistakes, or ones which result in a very public failure, are genuinely looked at as opportunities to learn. We can always repair the mistake or make up for it.*       
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__&mdash; Valve Corporation__, *Handbook for New Employees*
 
-The old Latin word errō (to wander or stray) was one of the origin words for the more modern err (to make a mistake, to sin). 
+The old Latin word errō (to wander or stray) was one of the origin words for the more modern err (to make a mistake or to sin). 
 
 Somehow over time we’ve gone from thinking of erring as wandering or experimenting to erring as sinning or making a mistake. 
 
