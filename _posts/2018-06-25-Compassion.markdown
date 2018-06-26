@@ -16,7 +16,7 @@ The description of symptoms for the disorder might as well be a bio for the mode
 
 If we value these traits so highly in our best companions, why do we not go out of our way to learn them ourselves? To encourage and teach compassion, trust, empathy, openness and forgiveness. One answer might be that we consider ourselves above these traits. As much as we value these traits, we also question others when confronted with curious empathy. Perhaps we’ve been so jaded by the world we’ve created for ourselves that we wonder about ulterior motives and hidden agendas. We hold back trust because we feel like others must be doing the same, and we can’t afford to be vulnerable first.
 
-If that’s true, then it’s time we learn (and teach) that cultivating the mindset to extend trust and empathy one of strength, not weakness. To be vulnerable first is to lead the world on a path of seeking to understand. We may house, feed and meet the physical needs of our pets, but in many ways they lead us every day us with their unwavering support, optimism and ultimately vulnerability.
+If that’s true, then it’s time we learn (and teach) that cultivating the mindset to extend trust and empathy is one of strength, not weakness. To be vulnerable first is to lead the world on a path of seeking to understand. We may house, feed and meet the physical needs of our pets, but in many ways they lead us every day us with their unwavering support, optimism and ultimately vulnerability.
 
 
 
