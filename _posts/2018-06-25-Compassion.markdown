@@ -5,8 +5,8 @@ date:   2018-06-25 13:54:15 -0700
 categories: blog post
 ---
 
->>*Dogs might only have the intellect of a two year old human, but their capacity to help others is ageless.*       
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[__&mdash; /u/MajorMajorObvious__](https://www.reddit.com/user/MajorMajorObvious "/u/MajorMajorObvious", [*Passing Dog Helps Firefighters Pull Down Tree – Reddit Thread*](https://www.reddit.com/r/funny/comments/8twyyd/these_firefighters_trying_to_pull_down_a_tree/ "Passing Dog Helps Firefighters Pull Down Tree")
+>*Dogs might only have the intellect of a two year old human, but their capacity to help others is ageless.*       
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[__&mdash; /u/MajorMajorObvious__](https://www.reddit.com/user/MajorMajorObvious "/u/MajorMajorObvious"), [*Passing Dog Helps Firefighters Pull Down Tree – Reddit Thread*](https://www.reddit.com/r/funny/comments/8twyyd/these_firefighters_trying_to_pull_down_a_tree/ "Passing Dog Helps Firefighters Pull Down Tree")
 
 Yesterday’s post highlighted some of the advantages we have as human beings in the animal kingdom. Today I’d like to talk about some of the ways we can learn from our best friends.
 
