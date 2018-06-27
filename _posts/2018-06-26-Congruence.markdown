@@ -5,7 +5,7 @@ date:   2018-06-26 13:54:15 -0700
 categories: blog post
 ---
 
->>*If I didn’t take people where they hired me to take them, I wouldn’t expect them to get back on my bus. We expect leaders to take us where we want to go. The problem, it seems to me, begins when they don’t. When things do not improve and yet these leaders keep expecting us to get back on their bus. I think this is when leaders become something else: Politicians.*       
+>*If I didn’t take people where they hired me to take them, I wouldn’t expect them to get back on my bus. We expect leaders to take us where we want to go. The problem, it seems to me, begins when they don’t. When things do not improve and yet these leaders keep expecting us to get back on their bus. I think this is when leaders become something else: Politicians.*       
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__&mdash; Capheus Onyango__, *Sense8*
 
 When was the last time you made a commitment to someone, including yourself, and then kept it? How did it feel?
