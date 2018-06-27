@@ -8,7 +8,7 @@ categories: blog post
 >*If I didn’t take people where they hired me to take them, I wouldn’t expect them to get back on my bus. We expect leaders to take us where we want to go. The problem, it seems to me, begins when they don’t. When things do not improve and yet these leaders keep expecting us to get back on their bus. I think this is when leaders become something else: Politicians.*       
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__&mdash; Capheus Onyango__, *Sense8*
 
-When was the last time you made a commitment to someone, including yourself, and then kept it? How did it feel?
+When was the last time you made a commitment to someone, even yourself, and then kept it? How did it feel?
 
 Congruence is having no gap between your words and your actions, between who you aspire to be and who you are every day. On the other hand, a lack of congruence invites guilt, doubt and regret as you find yourself living a life that doesn’t make you happy, a life that doesn’t reflect who you feel you really are. 
 
