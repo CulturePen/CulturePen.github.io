@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rationale"
+title:  "Coping Mechanisms"
 date:   2018-06-28 13:54:15 -0700
 categories: blog post
 ---
