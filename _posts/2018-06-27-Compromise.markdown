@@ -5,7 +5,7 @@ date:   2018-06-27 13:54:15 -0700
 categories: blog post
 ---
 
->*“If you limit your choice only to what seems possible or reasonable, you disconnect yourself from what you truly want, and all that is left is compromise.”*       
+>*If you limit your choice only to what seems possible or reasonable, you disconnect yourself from what you truly want, and all that is left is compromise.*       
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__&mdash; Robert Fritz__, *The Path of Least Resistance*
 
 We often turn to compromise when we feel we have few other options. We may tell ourselves that we're doing it for the other person or that we value the relationship more than winning. We may have the best of intentions and feel that we're being humble by compromising, that we're taking the longer term view.  

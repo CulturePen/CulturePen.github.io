@@ -5,7 +5,7 @@ date:   2018-06-29 13:54:15 -0700
 categories: blog post
 ---
 
->*"I have seen many successful people fail after they start fearing they might lose what they have built."*       
+>*I have seen many successful people fail after they start fearing they might lose what they have built.*       
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__&mdash; Guy Laliberté__ (Co-Founder, Cirque Du Soleil)
 
 I've written about risks before, and the long-term costs of avoiding them. Today I was thinking about a different style of safety, one that we've become so accustomed to that we might not even see the value in living outside of it.

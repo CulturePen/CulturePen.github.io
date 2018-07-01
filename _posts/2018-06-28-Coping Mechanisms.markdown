@@ -5,7 +5,7 @@ date:   2018-06-28 13:54:15 -0700
 categories: blog post
 ---
 
->*“Broken pencils may be annoying, but they do not pose a grave threat to our psychological well-being and hence do not trigger our psychological defenses. The paradoxical consequence of this fact is that it is sometimes more difficult to achieve a positive view of a bad experience than of a very bad experience.”*       
+>*Broken pencils may be annoying, but they do not pose a grave threat to our psychological well-being and hence do not trigger our psychological defenses. The paradoxical consequence of this fact is that it is sometimes more difficult to achieve a positive view of a bad experience than of a very bad experience.*       
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__&mdash; Dan Gilbert__, *Stumbling on Happiness*
 
 This book by Dan contains a number of surprising revelations about the way our brains work. I found this one in particular very unintuitive, and I love learning things that completely blow my worldview out of the water. In this case, his concept of the intensity trigger explains situations that we intuitively feel bad about but can never rationalize or put into words. It turns out that a large portion of how we feel about incidents is dependant on our interpretation and subsequent rationalization of the event. 
