@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Flow"
+date:   2018-07-02 13:54:15 -0700
+categories: blog post
+---
+
+>*What Gandhi thinks, what he feels, and what he does are all the same. He does not need notes... You and I, we think one thing, feel another, say a third, and do a fourth, so we need notes and files to keep track.  
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__&mdash; Mahadev Desai__, (Following a two hour improvised speech by Gandhi at the House of Commons)
+
+I've been learning more about the concept of flow recently, a state of being where you're so engrossed in what you're doing that you lose sense of the past, the future, and your immediate periphery. The biggest appeal to be about flow is that you live completely in the present moment while you're experiencing it, so I've been trying to figure out if there are ways to induce it on purpose. I've experienced it a couple times while writing these posts but it strikes me now that my memory of flow is likely very different from how it actually feels while I'm living it. My sense of time gets completely warped and I seem to write faster than I can think, with no real filter slowing the stream of ideas into words. 
+
+Mihaly Csikszentmihályi has been researching the concept for over 30 years now so I'm going to try to apply some of his research and see how well it works for me. Surprisingly, some of the conditions that denote flow are also considered key components of deliberate practice, also known as focused learning, such as receiving immediate feedback and experiencing the activity as intrinsically rewarding. A great word I learnt today to explain the feeling of enjoying an act itself regardless of the results is the German *funktionslust*. Before I learnt that word I never had a way to describe the feeling of wanting to keep playing a game I was being badly beaten at, where I felt like I had no chance at winning but somehow I was tremendously enjoying losing. It seemed weird to feel that way but I'm starting to learn that it's a pretty common aspect of both flow and deliberate practice. 
+
+I certainly find that some of my most defining moments of creativity and connection have been when I wasn't thinking, but simply acting without judging my actions in the moment. I'm not sure if that can be reproduced consistently but I look forward to finding out.
+
+
+
+
+
+
+
+
+
+
+
+
