@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Stand Out"
+date:   2018-07-03 13:54:15 -0700
+categories: blog post
+---
+
+>*But always remember, my friend, while society has
+been cultivated over thousands of years to provide
+you with limits, to keep order, to ensure that you
+don’t drift too far distant from the standard deviation
+lest you cause a commotion … *you* were not
+made to fit in, you are here to change the world …
+and people like us can’t afford to be too damn comfortable.* 
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__&mdash; A.J. Leon__, *The Life and Times of A Remarkable Misfit* 
+
+We've been taught to fit in or face the risk of being shamed for our failures. The truth is we're shamed for our failures even when we fail in the name of fitting in. The only difference is we also fail ourselves when we polish our rough edges to fit our ideas and risks neatly into "normal". It's convenient to believe that there's a formula to the success we want and that someone else invented it long before us. 
+
+Our success is unique to each of us and nobody else's formula can get us there. They can only inspire us to step off the paved road and blaze our own trail. There aren't any recipes to give us what we want, but there are plenty of recipes to help us write our own. Here's mine so far:
+
+* Give yourself the chance to fail everyday.
+* Seek out discomfort and make yourself comfortable with your fears. Then do it again. 
+* Assume you're wrong until you have a great reason to believe otherwise. Become right by changing yourself, not by rationalizing.  
+* Believe in people, especially when they don't believe in themselves (this includes you too. If you can't believe in yourself, find someone who can change that.)
+* Examine your beliefs before working on your behaviour. Reach the roots to reap the fruits (Credit to my amazing mom for teaching me this one)
+
+Take the time to think about your own values, what truly matters to you, and write your own recipe for life. If you're being honest with yourself, it will look like nothing anyone else could have written for you. You are like no one else who has ever, or will ever exist. It's up to you to decide when you want to start living like it. Everything else will just be history. 
+
+
+
+
+
+
