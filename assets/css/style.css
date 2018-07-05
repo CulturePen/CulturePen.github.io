@@ -24,7 +24,8 @@ body{
 
 .share {
 	float: right;
-	padding-top: 10fpx;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 .sidebar-header {
