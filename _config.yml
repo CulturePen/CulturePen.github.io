@@ -40,3 +40,4 @@ BASE_PATH:
 
 plugins:
   - jekyll-paginate
+  - jekyll-seo-tag
