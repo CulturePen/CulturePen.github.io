@@ -17,7 +17,7 @@ All of these things can contribute to happiness, but they don't fuel it nor do t
 
 I think it's quite natural for us to be able to, and even seek to forge trusting relationships with all kinds of people, but that intention will never be clear if we're worrying about manipulating or being manipulated. Until we shift our priorities from the conventional ones we've learnt to hold sacred like power and money, our agenda will always look cloudy to others and ourselves.  We'll never be able to truly trust or be trusted. What we've learnt wasn't taught directly to us, but it's what we've attributed to the success of those we look up to. 
 
-When we do learn of role models with integrity, we chalk their success as an exception to the rules and say that they've gotten there despite their "soft" morals, through luck or talent. We glance up at them, only momentarily lest we be blinded by the sun, then  shift our eyes down and continue to follow the rules we think are the only way for us to be happy. How could we ever be like them?
+When we do learn of role models with integrity, we chalk their success as an exception to the rules and say that they've gotten there because of luck or talent, despite their "soft" morals. The world doesn't treat us the same way if we try to do good. We glance up at them, only momentarily lest we be blinded by the sun, then  shift our eyes down and continue to follow the rules we think are the only way for us to be happy. How could we ever be like them?
 
 Well, we already are. We just have to rise off our knees to stand up straight, brush off the years of dust long settled on our shoulders and follow ourselves to the ends of the Earth as valiantly as we would follow our greatest role models. 
 
