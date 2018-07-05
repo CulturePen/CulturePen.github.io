@@ -5,8 +5,8 @@ date:   2018-07-04 13:54:15 -0700
 categories: blog post
 ---
 
->*Now that I am about to take action, I can only quote Etienne de la Boétie:<br> "They only seem tall because we're on our knees."</br>
- I won't kneel anymore, mother. I intend to stand straight, no matter the cost.* 
+>*Now that I am about to take action, I can only quote Etienne de la Boétie:<br> "They only seem tall because we're on our knees."
+ <br>I won't kneel anymore, mother. I intend to stand straight, no matter the cost.* 
  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__&mdash; Jack Gillingham__, *Bloody Letter*, __Vampyr__ 
 
 There is no real secret to happiness. All the useful knowledge we have on it is out there. We know that happiness can be helped along by money (up to a certain point), and we know that it's satisfying to make progress towards a goal, although it requires continual progress to keep that sort of dopamine high going. 
