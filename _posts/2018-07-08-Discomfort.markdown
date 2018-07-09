@@ -8,7 +8,7 @@ categories: blog post
 >*The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.* 
  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__&mdash; Martin Luther King, Jr.__, *Strength to Love*
 
-I came across this Chat with Traders __<u>[interview](https://chatwithtraders.com/133-james-king/ "Chat with James King")</u>__ a few months ago featuring James King, the former performance director at Mandara Capital, a commodities trading company based in London. He came from a sports psychology background and applied many of the same principles to improving employee performance at Mandara. There were many fascinating aspects discussed in the chat, one of which was the idea that we're always living in one of three zones. I ended up making a summary to put up in my office to remind myself of the concept:
+I came across this Chat with Traders [interview](https://chatwithtraders.com/133-james-king/ "Chat with James King") a few months ago featuring James King, the former performance director at Mandara Capital, a commodities trading company based in London. He came from a sports psychology background and applied many of the same principles to improving employee performance at Mandara. There were many fascinating aspects discussed in the chat, one of which was the idea that we're always living in one of three zones. I ended up making a summary to put up in my office to remind myself of the concept:
 
 ![Three Zones](https://i.imgur.com/8NEtDTT.png "Three Zones")
 
