@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Bias"
+date:   2018-07-12 13:54:15 -0700
+categories: blog post
+---
+
+>*We find comfort among those who agree with us - growth among those who don't.* 
+ <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__&mdash; Frank Clark__
+
+Buster Benson wrote a great piece titled the <b>[Cognitive Bias Cheat Sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18 "Cognitive Bias Cheat Sheet")</b> that outlines a categorical way to approach and understand the various different cognitive biases we're subject to. The internet being as awesome as it is, John Manoogian III picked up on it and turned it into a visual codex, making it even more approachable:
+
+![Cognitive Bias Codex](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Cognitive_Bias_Codex_-_180%2B_biases,_designed_by_John_Manoogian_III_(jm3).jpg/1920px-Cognitive_Bias_Codex_-_180%2B_biases,_designed_by_John_Manoogian_III_(jm3).jpg "Cognitive Bias Codex")
+
+These biases first evolved as shortcuts when we needed to make quick decisions based on incomplete information. In today's world however, where we don't experience nearly as many life and death moments requiring quick assumptions, our biases prevent us seeing past the surface of reality. 
+
+The easiest bias to fall for, and ironically one of the easiest to become aware of, is our own blindness to bias. Trapped within our own perspective it's difficult to imagine how we could consistently make flawed decisions or assumptions, or retain subjective memories of events. It's safest by default to assume that we're the least objective people to measure our own susceptibility to bias. 
+
+A colleague was the one who introduced me to this concept when I asked him for the highest priority concepts I should learn in life. After being exposed to the formal definitions for a multitude of biases, I found many of them particularly familiar in my life. I certainly agree with him now that this is a useful concept to bring awareness to.
+
+Here are the two of the biases I find myself most susceptible to, and thus prioritize being aware of daily:
+
+**Projection Bias:** We're quite bad at predicting or understanding our emotional response to events. The present heavily colours our predictions for the future as well as our memories of the past and we often overestimate the duration and intensity of emotions we will feel (and did feel) for both positive and negative incidents. An amusing study found that shoppers who had recently eaten a meal ended up underestimating their grocery needs for the next week, while shoppers who were hungry overestimated their needs. When asked to describe feelings of hunger, decriptions were wildly different between sated and hungry participants; Even participants who were hungry just hours before had already retained a memory of that hunger that differed from their actual feelings of hunger at a later time. One way to combat this is to note your present feelings and assume that they are influencing your thoughts of the future and the past. For example, "I've had a pretty bad day today so my urge to cancel the family dinner party next week might be because of how I feel right now. I'll sleep on it and decide tomorrow."
+
+**Fundamental Attribution Error:** We judge ourselves by our intentions, but others by their actions. When we cut someone off in traffic, it's because we're running late and haven't had our coffee yet. When the another driver does the same to us, it's because they're an asshole. The flaw is easy to notice when laid out like this, but we consistently attribute the actions of others to their personality rather than their situation. This is an insidious bias as it prevents us from being realistic about other perspectives and situations. A good way to bring awareness to this bias when you observe someone doing something that seems excessive is to ask, "Why would a reasonable, rational person do that?" 
+
+We can never completely escape our biases, and there are times they serve us well in the short-term, but they always get in our way in the long run. The most we can do is seek to understand how our brains work and be willing to accept the unreasonable conclusions about ourselves if we find ourselves reasonably applying them to other human beings. We are human after all and subject to being influenced by the same neurological structures and chemical influences as anyone else. 
+
+
+
+
+
