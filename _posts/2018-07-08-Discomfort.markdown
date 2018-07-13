@@ -18,7 +18,7 @@ I found that over time, more and more of the activities that used to put me in t
 
 They enabled me to spend more time in the stretch zone at work, which accelerated my growth exponentially. In many ways I feel it's everyone's individual mission to seek out and find ways to immerse themselves in discomfort until they find themselves comfortable, then to do it again. Taking it a step further, when you find others open to discomfort, you also become open to finding ways to enable others to do so too, like my colleagues did for me. It's a self-catalyzing cycle as the positive influence they had on me now enables me to inspire and encourage others the same way, allowing them to do the same and so on. 
 
-Seek out discomfort and you will find that those mere moments will serve you, and everyone you touch, better than a lifetimes of comfort. 
+Seek out discomfort and you will find that those mere moments will serve you, and everyone you touch, better than a lifetime of comfort. 
 
 
 
