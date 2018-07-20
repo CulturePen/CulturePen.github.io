@@ -18,7 +18,9 @@ Now consider another perspective: Work is as fulfilling as the time you spend ou
 
 This is the perspective I've begun to learn of recently. I've been told it's unrealistic to expect this, that the world doesn't work that way. Maybe that's true. If so, what's stopping us from making it true? Is it because we're human? Or is it our very humanity that makes any of this possible to imagine in the first place? Perhaps it is our ability to understand the very flaws that riddle our thinking and transcend our past behaviour to design the future we want to live. But we've become jaded by what we see as reality, fear and doubt holding us back until we don't just accept the world we've created. We begin to defend it and truly believe that it is the only way, that to strive for more would be futile and cost us our security and safety, while resulting in nothing but failure and anguish. 
 
-I say suspend disbelief for a moment and really consider what you want. Is it true that you have to choose between fulfilling work and a safe, secure, happy life? Are we so convinced that we must trade success to pursue this ideal that we aren't willing to see how real it can be to build both? I suppose there are many ways to find out, but my path is to commit to it fully. By expecting and settling for nothing less, I hope to find, or create, this ideal. If I'm doomed to fail, then so be it. Succeeding at anything less would be my only truly regrettable failure.
+This has been my paradigm shift. 
+
+I chose to suspend disbelief for a moment and really consider what I wanted. Is it true that you have to choose between fulfilling work and a safe, secure, happy life? Are we so convinced that we must trade success to pursue this ideal that we aren't willing to see how real it can be to build both? I suppose there are many ways to find out, but my path is to commit to it fully. By expecting and settling for nothing less, I hope to find, or create, this ideal. If I'm doomed to fail, then so be it. Succeeding at anything less would be my only truly regrettable failure.
 
 
 
