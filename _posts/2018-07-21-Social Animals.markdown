@@ -5,7 +5,7 @@ date:   2018-07-21 13:54:15 -0700
 categories: blog post
 ---
 
->*“We human beings are social beings. We come into the world as the result of others’ actions. We survive here in dependence on others. Whether we like it or not, there is hardly a moment of our lives when we do not benefit from others’ activities. For this reason, it is hardly surprising that most of our happiness arises in the context of our relationships with others.”* 
+>*We human beings are social beings. We come into the world as the result of others’ actions. We survive here in dependence on others. Whether we like it or not, there is hardly a moment of our lives when we do not benefit from others’ activities. For this reason, it is hardly surprising that most of our happiness arises in the context of our relationships with others.* 
  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__&mdash; Dalai Lama XIV__
 
 I had the opportunity to catch up with an old friend from high school today. We see each other every few months and I've always found his perspective very valuable, often because it directly contrasts mine. In high school one time we got embroiled in a discussion about the purpose of a post-secondary education, and what he said has stuck with me ever since: *School teaches you how to learn*. I ended up taking the words to heart, but I replaced with school with life instead. That discussion we had cemented in me a life-long awareness of the question, *Am I getting better at learning?*, which I ask myself whenever I'm having doubts about what I'm doing in life. If the answer is no, that often pushes me to look aggressively for ways to turn that into a yes. 
