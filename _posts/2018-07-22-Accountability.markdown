@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Accountability"
-date:   2018-07-21 13:54:15 -0700
+date:   2018-07-22 13:54:15 -0700
 categories: blog post
 ---
 
