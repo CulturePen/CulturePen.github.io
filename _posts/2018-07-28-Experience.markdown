@@ -5,7 +5,7 @@ date:   2018-07-28 13:54:15 -0700
 categories: blog post
 ---
 
->*By three methods we may learn wisdom: <br>First, by reflection, which is noblest;</br>Second, by imitation, which is easiest;<br> and third by experience, which is the bitterest.* 
+>*By three methods we may learn wisdom: <br>First, by reflection, which is noblest;<br>Second, by imitation, which is easiest;<br> and third by experience, which is the bitterest.* 
  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__&mdash; Confucius__ 
 
 Experience is an edge that cuts both ways.   
