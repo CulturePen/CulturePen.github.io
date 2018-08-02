@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Avoidance"
-date:   2018-07-29 13:54:15 -0700
+date:   2018-07-31 13:54:15 -0700
 categories: blog post
 ---
 
