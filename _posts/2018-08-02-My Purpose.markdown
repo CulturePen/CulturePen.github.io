@@ -6,7 +6,8 @@ categories: blog post
 ---
 
 >*The purpose of human life is to serve, and to show compassion and the will to help others.* 
- <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__&mdash; Albert Schweitzer__ 
+ <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__&mdash; Albert Schweitzer__<br>
+  
 >*Research is formalized curiosity. It is poking and prying with a purpose.* 
  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__&mdash; Zora Hurston__
 
