@@ -11,7 +11,7 @@ categories: blog post
 >*Research is formalized curiosity. It is poking and prying with a purpose.* 
  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__&mdash; Zora Hurston__
 
-I've been grappling with my purpose lately and coming up against more and more difficult questions as I progressed. There are two quotes preceding today's post because my purpose lies somewhere in between these concepts. I love ideas, fostering human connection, and making a positive difference in the world and its people. The question then is, can I live a life dedicated to adding to the fulfillment of the world by using ideas to connect people with each other and themselves? Well, the obvious answer is yes, so the tougher question that follows is *how*?
+I've been grappling with my purpose lately and coming up against more and more difficult questions as I've progressed. There are two quotes preceding today's post because my purpose lies somewhere in between these concepts. I love ideas, fostering human connection, and making a positive difference in the world and its people. The question then is, can I live a life dedicated to adding to the fulfillment of the world by using ideas to connect people with each other and themselves? Well, the obvious answer is yes, so the tougher question that follows is *how*?
 
 I'll have to figure that out, but it feels great to settle my *why* to begin with. Now that I have a clear direction that fits the very foundation of who I am, I can build upon that foundation in a way that suits my purpose best. That will involve a binding set of core values that make difficult choices easy and keep my short-term priorities in alignment with my long-term ones. Here are a few ideas:
 
