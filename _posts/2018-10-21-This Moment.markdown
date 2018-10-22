@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "This Moment"
-date:   2018-10-21 13:54:15 -0700
+date:   2018-10-21 
 categories: blog post
 ---
 
