@@ -5,9 +5,6 @@ date:   2018-10-21 13:54:15 -0700
 categories: blog post
 ---
 
->*It made a huge shift for me in how I decided to be present in the moment and not run away from the lizard [brain], to not run away from those things that scared me but to dance with them instead.* 
- <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__&mdash; Seth Godin__
-
 There has never been a better day, age, or moment more conducive to being open, genuine, and unique than the very one you are living in right now. The world has never been a more rewarding environment for those that seek to understand each other and to create meaning in their every thought and interaction. The freedom we have is no longer just external—it never has been—and this moment is the most rewarding to feeling that freedom deep within your being. 
 
 Courage exists right alongside fear, depending on it the same way a shadow depends on the presence of a light source. To extinguish fear is to extinguish courage; but to ally with fear, to welcome it as a sign that you're on the right path and to dance with it is to foster the courage it takes to unleash your internal freedom on the external world. 
