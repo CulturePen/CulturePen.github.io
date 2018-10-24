@@ -5,9 +5,9 @@ date:   2018-10-23 13:54:15 -0700
 categories: blog post
 ---
 
->*Kiss of the Dragon.
+>*Kiss of the Dragon.*
 >
->I remember when this movie came out, test audiences complained that they didn't like how they had sped up Jet Li's movements because it didn't look very realistc, but they hadn't done anything to the footage lol* 
+>*I remember when this movie came out, test audiences complained that they didn't like how they had sped up Jet Li's movements because it didn't look very realistc, but they hadn't done anything to the footage lol* 
  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__&mdash; [/u/OldKentuckyShark](https://www.reddit.com/user/OldKentuckyShark "/u/OldKentuckyShark")__
  
 What is it that shapes our idea of possibility? How many times have we done something we thought we couldn't do? How many times haven't we realized the magnitude of something we just did? How often does the world have to prove us wrong before we start to question our ideas of "right"?
