@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Cognitive Complexity"
+date:   2018-11-11 13:54:15 -0700
+categories: blog post
+---
+
+When we think of the stereotypical "smart" fields of high level math, rocket science, string theory or conceptual electrical engineering, we often imagine that they're difficult, specifically in how cognitively complex they are. We imagine that it must take years of building layer upon layer of understanding upon a foundation of learning to even crack into the complexity involved and to be comfortable with the concepts. We might even be right. 
+
+It struck me that there might be a completely different style of cognitive complexity, almost an emotional one. This kind isn't rocket science and while it may involve a foundation and building layers of knowledge and understanding, it seems like much of that understanding is emotional and experiential. Furthermore, it requires the questioning of the pre-conceived notions we grew up with, and a willingness to become aware of them in the first place and to see them as assumptions rather than fact. This is difficult, not because it's cognitively complex like we imagine rocket science, but because it's emotionally challenging the same way bringing up the elephant in the room can be. It takes the courage to face our judgments of ourselves and the world and question them; to question our motivations and the people we want to be for our parents, our loved ones, our colleagues and our children. It's an axis of growth to which we're rarely exposed. 
+
+We're taught about university degrees and education, about professional excellence and traditional success. We're taught that happiness lies along that axis of growth, and that if we build ourselves a life worthy of pride, we will be fulfilled. We're taught to connect with others, but only as far as it takes us on that axis; networking. We're taught to learn skills and execute them for results, but only as far as they'll pay us; jobs. So much of what we're taught to do is founded on this single axis of success and we're rarely taught that it's just one of many—one of many ways to be fulfilled and one of many ways to succeed. Many times it isn't even the best one for ourselves... But we don't know that alternatives exist, so we hustle and strive to make it so. 
+
+I don't have the answers for you or for myself, and it's likely anybody does, but we're taught to accept other people's answers rather than find our own. We're even taught that answers need to be the end result of questions. Results have become the keystone of how we judge things and we rarely question the underlying model behind why we view results the way we do. Why we measure and judge them the way we do, what we truly want, and if what we're doing is really getting us there. The more we realize we don't have the answers, perhaps the more fulfilled we will feel asking the questions.
