@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Questioning"
+date:   2018-11-12 13:54:15 -0700
+categories: blog post
+---
+
+We take so much for granted as obvious to us. I feel fortunate to have had the freedom to question them lately. I'm also starting to realize that many of my insights lately have just been multiple "obvious" things put together to form an uncomfortable, sometimes unintuitive conclusion that seems to make sense. Too often we look at doubt as a way or a means to be unfulfilled by the thing we're doubting or questioning. Our culture around questioning things needs to change, and people and companies are already choosing to build better environments to both question and enjoy concurrently. They aren't mutually exclusive, and funnily enough they often end up fuelling each other in the right environment for it. 
+
+Questioning things can be the greatest form of support to the *people* behind and alongside the things we doubt. End of the day we live and die for people—not systems, not rules, and definitely not profit. We like to measure our impact by tangibles because the intangibles are so unintuitive to grasp, but this leads to all sorts of mix-ups. We end up chasing metrics over fulfillment, pursuing "winning" over strengthening genuine bonds and competing with our greatest allies; everyone else. The world makes it seem okay but we get glimpses into how unsustainable and unfulfilling this way of living can be. Our narrow environments and upbringing make it seem obvious to us that we couldn't possibly build better. That the world runs a certain way and it's because people are a certain way. Well, people are very flexible and so is the world. We get to choose how we want to live through every little interaction and moment. Every question we bite our tongue on is a choice we make to propogate the past rather than live in the present. Everytime we think of something as obvious, we choose to blind ourselves to the nuances of a better way, less obvious, but more connective. Questions don't even need to lead to answers to be amazing tools for change; simply more questions will do.
