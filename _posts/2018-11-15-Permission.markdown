@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Permission"
+date:   2018-11-15 13:54:15 -0700
+categories: blog post
+---
+
+I noticed I haven't felt anger in months and I've been wondering why lately. Kat Hoch's idea that you can't be curious and angry comes to mind. It feels like at some point I unwittingly gave myself permission to be curious in situations where anger was expected, or considered normal. The more I've thought about this, the more I've realized how difficult it can be for us to give ourselves permission to feel differently than we've been taught. If I'm supposed to be angry and I'm not, I might feel guilty about that. We've seen this expectation of outrage before, and it can feel like we belong less when our emotions don't fit in with the status quo. What I've been wondering is if attitudes have been shifting over time, maybe plenty of people are feeling things not because they want to or have to but rather because they believe it's appropriate to.
+
+What would it take to give ourselves permission to feel happy in the face of expected sadness or sad in the face of expected joy? Curious instead of angry, seeking to understand rather than blame, seeking to grow rather than stew. It's really interesting how this also ties back to the concept that forgiveness helps the forgiver far more than the forgived. We seem to get addicted to familiar feelings, even if they're negative ones, and we seek them out just to feel something familiar. Joe Dispenza talked a bit about this in his interview with Tom Bilyeu where he mentioned that we reaffirm our need for judgment from our friends, our need to feel hatred by focusing on people in our lives we can villainize (ex-spouses, perceived perpetrators of injustices against us, even toxic relationships we feel bound to). Even if those people vanished tomorrow, our need to feel those familiar emotions that have over time come to define us will mean that we will seek to replace them with other people we can justify feeling the same way about. It's not the people that make us feel that way, but rather our familiarity with the feeling that leads us to continually seek it out.
+
+When we give ourselves permission to feel something uncomfortable, unfamiliar, new to us, we might just discover that we're much more fulfilled for it.
