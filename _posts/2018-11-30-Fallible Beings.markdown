@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Fallible Beings"
+date:   2018-11-30 13:54:15 -0700
+categories: blog post
+---
+
+We're all fallible, so in a way nothing we create will ever be infallible. Accepting this may be one of our greatest sources of clarity and growth. Because no system, process or company we design will ever be perfect, we are free to iterate and improve endlessly. The death of any of our products never has to be the death of our ability to create and change. One of the greatest unspoken mistakes we can make is believing that we aren't allowed to fail, that our companies, endeavors and experiments aren't allowed to die. I've been learning lately that implicit beliefs like that make it much harder to adapt and to truly enjoy life for the innovative experience that it is rather than regret it for everything it isn't that we wish it could be. 
+
+This implicit idea of infallibility is also the greatest barrier between seeking to understand those we feel lie far above or below us. Everyone's human but we often seem to forget this in the moment when we treat people like bundles of personality that are irrational and unreasonable (from our perspective). The only thing stopping us from understanding others is our fear that it will expose their humanity and prove our judgments wrong. When we're willing to be fallible with our beliefs, we inevitebly give others the freedom to do the same. When those around us feel the freedom to be fallible, it enables them to be honest not just with us, but with themselves too. The impact is massive, but we rarely see or measure it in tangible terms. We do certainly feel it though, and quite palpably at that. If you've ever been in an environment where you felt free to be yourself, free to fail, and more in touch with your genuine nature than usual, you've experienced this too. It is very much generated, maintained and carried forward by individuals who make the choice to be vulnerable and fallible human beings. It is our greatest strength. 
