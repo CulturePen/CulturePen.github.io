@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "The Intricate Beauty of No"
+date:   2018-12-02 13:54:15 -0700
+categories: blog post
+---
+
+There are many great resources out there on the subject of No; on the power of refusal. I've been considering a few thoughts on the matter. [Chris Voss](https://youtu.be/guZa7mQV1l0?t=141 "Chriss Voss on No") mentions in this Google talk how Yes is commitment and No is safety. Someone feels safest and most protected when they've just said no. Once we decline to commit to something, it actually opens our mind up to consider other possibilities, such as if we had said Yes. This often leads to hilarious situations that we're all familiar with, where we refuse someone, they persist, and we seem to hit upon a solution we hadn't thought of before that we then present as an alternative. It's completely natural it seems. 
+
+One barrier to this is our amygdala, or our reptile brain. We are conditioned very deeply to receive rejection as a threat. To see it as the possibility of being kicked out of our tribe or losing the respect of someone. Many times we end up reacting to rejection with our fight-or-flight response, with trepidation and self-doubt kicking in almost immediately. We may get defensive, demanding justification, or we may slink away to lick our wounds in isolated safety. Asking ourselves complex cognitive questions, such as "Why did they say No?" or "What was my plan if they didn't say Yes?" can help us get past this stage by putting our neocortex to work. This technique helps quite a bit in any situation where we're overcome by emotion because we can't engage lower and higher cognition at the same time, and one often ends up eking the other out over a short duration when they're competing. We get to make that choice. 
+
+This also means that when someone tells us No, it's a sign that we should seek to understand. Give them a moment to explore alternatives, and propose a different solution. You might just find them amenable to your original proposal, simply because you gave them the freedom to say No and then responded in a way that made them feel like they had always been safe to say No. When people feel safe to say No, they are much more likely to consider your question as credible and plausible: something worth considering a Yes for. 
