@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wants Vs. Needs"
-date:   2018-12-13 13:54:15 -0700
+date:   2018-12-12 13:54:15 -0700
 categories: blog post
 ---
 
