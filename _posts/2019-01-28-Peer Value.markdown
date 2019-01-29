@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Peer Value"
+date:   2019-01-28 13:54:15 -0700
+categories: blog post
+---
+
+I was thinking about this story told by the founder of Menlo Innovations, Richard Sheridan, and it made me realize just how much we value the respect and recognition of our peers. In the story, Menlo had just completed a software project for a client and they had equity in the deal, so Menlo made a good chunk of the profits from the software sales. In celebration, the team went out for dinner and Rich announced that they would each be getting a large bonus from the project's profits. He noticed one of the employees didn't seem particularly happy about this, and he asked her if something was on her mind. She simply looked away and he decided to give her some space. The next day he followed up and asked her if the bonus wasn't going to make a difference in her life, or if there was something else troubling her. She was silent at first, but eventually spoke up, explaining that she was glad for the bonus but had her mind occupied with something else.
+
+Menlo is unique in many ways, one of which is their system of peer promotions. Colleagues are able to band together and promote someone in their team to a higher position without consulting upper management. In fact, the promotion can completely go through without anyone outside the team even knowing. This is what had happened to this employee. She had been promoted to a senior without Richard's knowledge, and she explained to him how it had left her speechless. It wasn't about the privilege of being promoted, but rather the recognition and respect she realized her peers had for her to band together and promote her the way they did. It meant so much to her that the large bonus paled in comparison that night. Richard understood then that she had received something far more valuable and human than any sum of money could ever amount to.
