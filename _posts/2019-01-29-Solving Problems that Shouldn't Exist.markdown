@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Solving Problems that Shouldn't Exist"
+date:   2019-01-29 13:54:15 -0700
+categories: blog post
+---
+
+I met someone yesterday who had overcome many challenges in his career. He had to work very hard to counteract discrimination because of his skin color, and he was often the youngest person at the table. He gave me some great advice for dealing with situations stacked against me, but it made me wonder why we accept it happening in the first place. One of the things he did was finding creative ways to borrow credibility, since nobody trusted his credibility alone. He would sit outside the head of the company's office, several levels above his position, and wait for an opportunity to catch him leaving. He would share some of his ideas, get feedback there, and later pitch the idea to his colleagues while adding the senior's feedback. This made his colleagues pay attention and give the idea credence. It's a very creative solution, and it ended up creating a positive feedback loop as the good idea would be partially credited to the senior, who would then be more than happy to lend his credibility again in the future. 
+
+From the stories he told me, it seemed like he had to contend with a lot of discrimination and unconscious bias, and I'm very glad he found his way through all of it to the success he wanted. What I've realized personally though is that I just can't accept problems like these in the first place. I would rather be penniless and unemployed than settle for a workplace that has me spending chunks of my energy and attention working around the biases of those around me. It's tough to imagine how a place would go about building a culture that eliminates these problems entirely, but it's worth pursuing. I think these are the kinds of problems that are never truly solved until they are eliminated entirely. Their very existence is often a symptom of a deeper condition that has gone unacknowledged and unaddressed. Our ultimate objective has to be to root that out and rebuild the way we think at work.
