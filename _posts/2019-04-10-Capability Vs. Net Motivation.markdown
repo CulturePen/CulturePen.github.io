@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Capability Vs. Net Motivation"
-date:   2019-04-09 13:54:15 -0700
+date:   2019-04-10 13:54:15 -0700
 categories: blog post
 ---
 
