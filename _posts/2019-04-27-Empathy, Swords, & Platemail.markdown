@@ -55,7 +55,7 @@ Me: Exactly. Imagine if you approached him genuinely believing that the way he f
 
 **L:** Probably not.
 
-**Me:** You've been raised to believe that your armour and your shield are necessary tools in this world, but in many cases like this one, they're actually holding you back from meaningfully progressing with friends like Z. When you're vulnerable, the dynamic changes entirely for the other person too, no matter how angry they might have been. In fact when you do this, it's likely when *he* will approach *you* to ask for *your* side of the story, to understand your circumstances better. He'll think to himself, *What made L understand me this way so suddenly? Is it possible that I misunderstood what he went through? I need to understand him better,* and he'll actually *want* to hear your side of the story, rather than you feeling like you need to force him to listen to you. 
+**Me:** You've been raised to believe that your armour and your shield are necessary tools in this world, but in many cases like this one, they're actually holding you back from meaningfully progressing with friends like Z. When you're vulnerable, the dynamic changes entirely for the other person too, no matter how angry they might have been. In fact when you do this, it's likely that *he* will then approach *you* to ask for *your* side of the story, to understand your circumstances better. He'll think to himself, *What made L understand me this way so suddenly? Is it possible that I misunderstood what he went through? I need to understand him better,* and he'll actually *want* to hear your side of the story, rather than you feeling like you need to force him to listen to you. 
 
 *He begins to nod with some enthusiasm.*
 
