@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Flying Too Close to the Sea"
+date:   2019-04-31 13:54:15 -0700
+categories: blog post
+---
+
+The ancient Greek myth of Icarus and Daedalus is often seen as a moral lesson against hubris and reaching beyond one's grasp. Imprisoned with his son atop the highest tower in Crete, Daedalus fashioned them a pair of feathered wings held together by nothing but candle wax. He warned Icarus that if he flew too close to the sun, the wax would melt and his wings would fall apart. But if he flew too low, the seawater would dampen his wings and weigh them down, grounding him. Icarus agreed with him, but was overtaken by the joy of flying and flew far too high, losing his wings and his life and leaving Daedalus stricken to escape alone.
+
+Too often in our lives we worry about flying too close to the sun, but rarely do we ever ask if we're flying too close to the sea. Sometimes our wings are heavy with salt and seawater but we never try to fly higher, making the struggle ahead of us even more daunting. Opportunities we miss can set us back just as far as the mistakes of action we regret sorely, but they're harder to quantify and notice. Mistakes of inaction make up more of our setbacks than mistakes of action, because mistakes of action more often move us forward and grow us in ways mistakes of inaction rarely do. People at the end of their lives often reminisce on the opportunities they missed and risks they wish they had taken, even if they were as simple as being more honest with a loved one or more kind in the face of adversity. Our perception of how high we're flying is heavily flawed and most of our are at risk of flying too low rather than too high. This doesn't just apply to our career ambitions, but also to our relationships and hobbies in life. It's worth asking what's holding us back from committing to being the kind of human being we dream of being and if it's a fear that we're reaching beyond what we deserve or are capable of, it's worth going for it. Once we make the commitment to soar, salt and seawater only serve to give us a better workout on our way up.
