@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Beliefs Exist to Change"
+date:   2019-05-02 13:54:15 -0700
+categories: blog post
+---
+
+The statement seems so obvious when worded this way, but most of the time we build our lives around our beliefs rather than building our beliefs around our lives. We cling to sets of beliefs passed along to us from friends, family and authority figures and end up suppressing evidence that questions our beliefs while emphasizing evidence that supports them. We craft entire identities around our beliefs and decide our self-worth based on our ability to defend our beliefs. Our beliefs shape our reality rather than the other way around, but we continue to believe that reality just happens to align perfectly with what we believe in. It's a simple fact that people who say they see the act of someone changing their view as a positive behaviour are more likely to be able to overcome their own biases when confronted with them. They've already gotten past the first step of getting out of their own way. We stand in our own way by implicitly judging ourselves as weak or a pushover if we ever consider changing an opinion, while feeling strong and superior for sticking to our guns in the face of doubt. We view doubt as an enemy worth fighting at all costs and feel comfortable in sureness. Genuine curiosity is finding comfort in doubt and discomfort in sureness. It's what has driven the greatest changes in history and it all starts with a mind that's willing to question itself. Great minds aren't born, but formed and tempered through questioning and refinement. It's never an easy process, but it is an extremely rewarding part of being human.
