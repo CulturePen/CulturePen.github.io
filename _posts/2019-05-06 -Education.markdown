@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Education"
+date:   2019-05-06 13:54:15 -0700
+categories: blog post
+---
+
+The intelligence and problem solving capabilities of the average human being has steadily risen over the last century. Some of this can be attributed to better living conditions and nutrition, but most of it comes down to education. Schools play a vital role in this, but they're functioning far less effectively than they could. Schools often end up making people hate learning, especially by sucking creativity and autonomy out of the process. Learning becomes associated with drudgery and repetition rather than experimentation and dynamic problem solving. The greatest gift a teacher can give a student is the confidence to stay curious and retain a lifelong love of learning. Unfortunately, we don't give teachers the freedom to do that. We impose restrictive curriculums and put them in environments where the path of least resistance is to take the passive, default approach of handing out homework. 
+
+We also need to begin to look at education as a two pronged approach. Learning isn't just about traditional subjects, but also facing real life challenges, especially emotional ones. It's a component we barely address in kids but generally notice in adult society when entitlement or unhealthy conflict rear their heads in daily life. On a personal level, we can begin to view ourselves as individual educators rather than just cogs in a system with no responsibility of our own. The reality is we're all constantly learning valuable insights from which somebody we know could benefit. We just haven't been taught to take on the role as lifelong daily educators. We can make it part of our routine in interactions with friends and family by learning from them and offering our perspective as well.
