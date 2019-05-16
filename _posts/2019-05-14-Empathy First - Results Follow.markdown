@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Empathy First"
+title:  "Empathy First - Results Follow"
 date:   2019-05-14 13:54:15 -0700
 categories: blog post
 ---
