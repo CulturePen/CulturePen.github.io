@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Proving Yourself Wrong"
+date:   2019-05-21 13:54:15 -0700
+categories: blog post
+---
+
+Someone pointed out a habit of mine that I had been working very hard to develop earlier on, but that I often take for granted now. We were at a computer doing some research and I was giving some advice based on something I had read in a book. Without even thinking about it, as I was explaining what I had learnt to him, I was searching online for counterarguments and evidence that suggested what I had learnt was wrong. He called this out and asked me why I was doing that. I just shrugged and said I liked to do everything I could to prove myself wrong before giving someone specific advice. He found this so unintuitive, but also began to see its value as we explored it further. 
+
+Once you're equally satisfied with being wrong as you are with being right, it becomes natural to constantly learn and keep disproving old habits as they become outdated. You can set up various checkpoints where you naturally fact check your knowledge before moving forward, such as before sharing it as advice, before applying it, or even before building further on other knowledge that uses it as a foundational assumption. That being said, sometimes the best way to prove something wrong is to put it into practice as if it were right and see how the results play out. This something really interesting about the culture at Menlo Innovations, where they constantly encourage experimentation and actively work to keep their failure rate at 50% or higher. They've come to understand that innovation is most valuable when you are willing to fail. As much as successful experiments feel good, failed experiments are what move you forward. By striving to fail at least 50% of their experiments, they set up an environment where risk is not just tolerated but encouraged, implicitly giving people the message that proving yourself wrong is great. You don't have to run a company to implement this for yourself, because you're always running yourself, whether you choose to do it consciously or not. 
