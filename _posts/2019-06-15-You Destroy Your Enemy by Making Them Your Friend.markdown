@@ -9,5 +9,5 @@ One way to look at this is to believe that the ultimate victory is to convert yo
 
 Another way to look at it is that the ultimate victory may lie in converting yourself to your opponent's cause. We generally view this as defeat and a last resort. *If you can't beat them, join them,* as the saying goes.
 
-A third way to look at it is that it may not be about picking sides at all. That to understand and empathize does not mean to convert yourself, nor does it mean to convert them. That your enemies can become your friends not because you change them, but because you do by understanding them. To understand does not mean to side with or against, but simply to refrain from judgment and prioritize truth over labels. 
+A third way to look at it is that it may not be about picking sides at all. That to understand and empathize does not mean to convert yourself, nor does it mean to convert them. That your enemies can become your friends not because you change them or because they change themselves, but because your view of them changes by understanding them. To understand does not mean to side with or against, but simply to refrain from judgment and prioritize truth over labels. 
 
