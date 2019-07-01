@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Learning"
+date:   2019-06-22 13:54:15 -0700
+categories: blog post
+---
+
+We are natural born learners. I recently had the pleasure to come across the work of Sugata Mitra who has been researching teacher-less learning (sort of). Through his work he has found that learning is not something you make happen, but rather something that you let happen. A teacher is merely there to ask a question and then step back and watch the learning unfold. His "Hole-In-The-Wall" experiments are very interesting and detail how children can consistently learn to use a computer with no previous exposure to it, learn to understand web pages in English with no previous exposure to English, and learn complex concepts a decade ahead of their age-level, all without any human teachers. The key though, is that it takes a group. He installed these Hole In The Wall computers in remote villages and areas in India and studied the learning progress of kids as they experimented with the computers. 
+
+He observed that kids would often crowd around and begin learning as a group. Their tenacity to access information is so naturally strong that they will eventually begin to learn whatever language the computer is in, even if they've never been exposed to it before. There is no set human teacher, but in a way each child is both a teacher and student of every other child there. In that sense it is self-organized learning and teaching together. Sugata argues that our current education system is a mere vestige of a Victorian era system designed to pump out identically functional, competent bereaucrats who could operate the vast British empire. Today our education needs to look very different, perhaps led by students more than anyone else. 
+
+Even as adults we can apply this to ourselves as we all have a natural love of learning in some form or another. School often crushes that intrinsic fulfillment and replaces it with external goals, making learning simply a means to an end; to that next A, to that degree, to that job and to that life we envision. When we offer external rewards for naturally fulfilling behaviour, it becomes harder and harder to enjoy the process alone. We start to grow attached to the results and the rewards and learning becomes an obstacle in the way of getting what we want. 
+
+Sugata's experiments and experiences demonstrate that learning may be an innate desire, stronger than any force we may deem laziness or apathy. Perhaps we are our own greatest obstacle in the way of reconnecting with that innate passion for learning.
