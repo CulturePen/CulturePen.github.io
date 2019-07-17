@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "The Emotional Cost of Uncertainty"
+date:   2019-07-16 13:54:15 -0700
+categories: blog post
+---
+
+Uncertainty can be very expensive emotionally. It's taxing, unsafe, unstable and unpredictable. To live without an answer can sometimes be to live without a lifeline, without a tether back to reality and certainty. To believe we don't know is perhaps only dwarfed in scariness by facing the possibility that we may never truly know... Or so it seems from the outside. Yet for some reason I no longer feel that way, and I'm not really sure why. Somehow uncertainty has begun to feel rewarding, as if it's fuelling growth and meaning and understanding, despite not necessarily moving me forward in any objective way. What has changed that has made it energizing and net-positive emotionally rather than draining and net-negative? It's something I'm tremendously curious about. 
+
+Figures throughout time seem to have discovered similar ideas in their lives, such as Seneca, an ancient Roman philosopher, political advisor and author. He gained immense wealth over the course of his lifetime, but he discovered that past a certain point the uncertainty of losing his wealth was hurting him more than the possession of the wealth was fulfilling him. This is the kind of uncertainty that we seem to avoid in our daily lives, and Seneca decided to transform it into a different kind of uncertainty. He began to train himself to wake up every morning as a poor man who then discovers riches and wealth anew. He seemed to realize that the philosophy of stoicism could be practically applied in this way, where uncertainty and randomness could be moulded to feel rewarding, and in this way he also seeked to learn to love poverty. It seems like a paradox to love both poverty and wealth, and yet this is what he pursued in very practical ways for a very practical reason; peace of mind and meaningful fulfillment. The kind of wellbeing that we crave but seem to rarely find. Is there a way for our prioritization of this form of wellbeing to grow and encompass us as a society, as a culture? Is that even necessarily a good thing? 
