@@ -6,7 +6,7 @@ categories: blog post
 ---
 
 >*There's no such thing as writer's block. What that is is performance anxiety that you've imposed on yourself because your expectations are too high. Just lower your standards. Lower your standards until you get started.* 
- <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__&mdash; Neil Strauss (as quoted by Tim Ferriss)__, [*Impact Theory Interview*](https://www.youtube.com/watch?v=LYU-8IFcDPw 'Impact Theory Interview')
+ <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__&mdash; Neil Strauss (as quoted by Tim Ferriss)__, [*Impact Theory Interview*](https://youtu.be/Kd06uvinqLI?t=1409 'Impact Theory Interview')
 
 I've been expecting far too much from myself. So much so that I've been underdelivering on my promises. The further I fell behind, the more I expected to deliver to "catch up", and so the less likely I was to actually sit down and write what I was going through. 
 
