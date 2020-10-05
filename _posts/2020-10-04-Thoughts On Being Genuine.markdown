@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Thoughts on Being Genuine
-date:   2020-10-03 23:59:00 -0700
+date:   2020-10-04 00:01:00 -0700
 categories: blog 
 ---
 

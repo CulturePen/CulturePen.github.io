@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Conflicts Are Worth Experiencing
-date:   2020-09-28 22:59:00 -0700
+date:   2020-09-28 21:59:00 -0700
 categories: blog 
 ---
 
