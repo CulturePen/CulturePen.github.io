@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  Conflicts in Learning
-date:   2020-10-11 00:08:00 -0700
+date:   2020-10-11 01:39:00 -0700
 categories: blog feynman
 ---
 
 >Each generation that discovers something from its experience must pass that on, but it must pass that on with a delicate balance of respect and disrespect, so that the [human] race--now that it is aware of the disease to which it is liable--does not inflict its errors too rigidly on its youth, but it does pass on the accumulated wisdom, plus the wisdom that it may not be wisdom.
 <br><br>
-It is necessary to teach both to accept and to reject the past with a kind of balance that takes considerable skill. Science alone of all the subjects contains within itself the lesson of the danger of belief in the infallibility of the greatest teachers of the preceding generation.
-
+It is necessary to teach both to accept and to reject the past with a kind of balance that takes considerable skill. Science alone of all the subjects contains within itself the lesson of the danger of belief in the infallibility of the greatest teachers of the preceding generation. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__&mdash; [Richard Feynman](http://www.fotuva.org/online/frameload.htm?/online/science.htm 'What is Science? - 1966')__
+
 
 I came across this fascinating transcript of a talk Feynman gave in 1966 to the National Science Teachers Association. I highly recommend it to anyone interested in education, learning, or science. He shares how his dad taught him science and, and throughout the talk he also uses different stories and metaphors to try to get at what science might be. 
 
