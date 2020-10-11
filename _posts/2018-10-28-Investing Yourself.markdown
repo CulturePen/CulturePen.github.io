@@ -2,7 +2,7 @@
 layout: post
 title:  "Investing Yourself"
 date:   2018-10-28 13:54:15 -0700
-categories: blog post
+categories: blog post seth
 ---
 
 > *Everybody holds back every time, because that's what you got taught to do. You got taught to do that by your third grade teacher and by your coach and by that boss and that other boss. 'Cause if you put everything into it, they're just going to ask for more anyway. You know who doesn't hold back? Artists. David Mamet doesn't say, "Oh I've got a great line, I'll save it for a future play. I'm not getting paid enough for this play."* 
