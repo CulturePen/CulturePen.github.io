@@ -2,7 +2,7 @@
 layout: post
 title:  Conflicts in Learning
 date:   2020-10-11 01:39:00 -0700
-categories: blog feynman
+categories: blog 
 ---
 
 >Each generation that discovers something from its experience must pass that on, but it must pass that on with a delicate balance of respect and disrespect, so that the [human] race--now that it is aware of the disease to which it is liable--does not inflict its errors too rigidly on its youth, but it does pass on the accumulated wisdom, plus the wisdom that it may not be wisdom.
