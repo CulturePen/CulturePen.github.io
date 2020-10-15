@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Diving Deep 
-date:   2020-10-13 22:01:00 -0700
+date:   2020-10-13 21:01:00 -0700
 categories: blog 
 tags: 
 ---
