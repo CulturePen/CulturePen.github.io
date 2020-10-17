@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Stagnation
-date:   2020-10-15 21:54:00 -0700
+date:   2020-10-15 15:54:00 -0700
 categories: blog
 tags: 
 ---
