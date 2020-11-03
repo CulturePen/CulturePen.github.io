@@ -7,11 +7,11 @@ tags:
 ---
 You only have so much willpower available per day. You can practice concentration and willpower to build more, and you can sleep and relax more to replenish it. But to start, you'll want willpower to serve your goals rather than anyone else's. Here are a few directives for deploying willpower effectively:
 
-<h4>Deploy willpower to define the problem and goal as well as you can in advance</h4>
+<h4>Deploy willpower to define the problem and goal as well as you can in advance.</h4>
 This is important to do because it helps future efforts stay focused around what matters to you. The clearer the goal, the easier it is to identify when efforts are succeeding or failing, making subsequent adjustments more enjoyable to implement.  
 
 
-<h4>Deploy willpower to build environments for yourself that make willpower unnecessary. </h4>
+<h4>Deploy willpower to build environments for yourself that make willpower unnecessary.</h4>
 **Example:** Let's say you've decided to cut refined sugar out of your diet. Deploy willpower to avoid buying sugary snacks at the store (and especially at the checkout where they are tantalizingly laid out to encourage an impulse purchase). This is difficult, but acts as a willpower investment. Later on at home, you'll have less cravings simply because there are less reminders around. Given enough time, you'll find alternatives and the cravings won't even take the same form anymore. At one point for me, broccoli started to taste sweet because I hadn't had any sugar for months. At that point you no longer need willpower to avoid sugar, because you've structured your mind and your life to function perfectly well without any. Willpower becomes obsolete for that goal and you can deploy it elsewhere. 
 
 <h4>Deploy willpower to build schedules, routines, rituals, and habits.</h4>
